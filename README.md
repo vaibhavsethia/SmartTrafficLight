@@ -210,10 +210,11 @@ More Efficient | Comparitively lesser Efficient
 ## Output Examples 
 
 #### Normal Version Output
-![Image](venv/IMG/op.png)
+![Image](https://github.com/vaibhavsethia/SmartTrafficLight/blob/master/venv/IMG/Op.png)
 
 #### Prototype Extended Version Output
-![Image](venv/IMG/proto.png)
+![Image](https://github.com/vaibhavsethia/SmartTrafficLight/blob/master/venv/IMG/proto.png)
+
 ## Constraints 
 
 - At Max 60 cars can be accomodated in the camera frame 
