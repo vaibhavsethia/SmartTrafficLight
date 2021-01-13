@@ -213,7 +213,7 @@ More Efficient | Comparitively lesser Efficient
 ![Image](https://github.com/vaibhavsethia/SmartTrafficLight/blob/master/venv/IMG/Op.png)
 
 #### Prototype Extended Version Output
-![Image](https://github.com/vaibhavsethia/SmartTrafficLight/blob/master/venv/IMG/proto.png)
+![Image](https://github.com/vaibhavsethia/SmartTrafficLight/blob/master/venv/IMG/Proto.png)
 
 ## Constraints 
 
