@@ -7,7 +7,7 @@ dirpath=os.getcwd()
 
 def main():
     L = []
-    path ="/Users/irateleaf/Desktop/Smart-Traffic-Light/IMG"
+    path ="/Users/irateleaf/PycharmProjects/SmartTrafficLight/venv/IMG"
     imgpath1 = path + "/Side_4.png"
     val = random.randrange(1, 3)
     imgpath2 = path + "/Side_4+"+str(val)+".png"
@@ -23,6 +23,12 @@ def main():
     img3 = cv2.imread(imgpath3, 1)
     img4 = cv2.imread(imgpath4, 1)
     img5 = cv2.imread(imgpath5, 1)
+
+    cv2.imshow('Image', img1)
+    cv2.imshow('Image', img2)
+    cv2.imshow('Image', img3)
+    cv2.imshow('Image', img4)
+    cv2.imshow('Image', img5)
 
     img1 = cv2.resize(img1, (512, 512))
     img2 = cv2.resize(img2, (512, 512))
@@ -88,7 +94,7 @@ def main():
     p = int(percentage * (10 / 8.304977416992188)) + 11
     L.append(p)
 
-    #print(L)
+    print(L)
     return L
 
 if __name__ == "__main__":
