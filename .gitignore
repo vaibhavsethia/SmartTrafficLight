@@ -2,3 +2,4 @@
 venv/lib
 venv/bin
 venv/Object_Detection/venv/bin
+*.pyc
