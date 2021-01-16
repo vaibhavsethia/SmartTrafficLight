@@ -231,7 +231,8 @@ More Efficient | Comparitively lesser Efficient
 
 ## Contributors
 
-[Vaibhav Sethia](https://github.com/vaibhavsethia)
+[Vaibhav Sethia](https://github.com/vaibhavsethia) 
+<br />
 [Vivek Sharma](https://github.com/Baazigar007)
 
 
