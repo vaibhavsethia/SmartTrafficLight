@@ -236,6 +236,6 @@ More Efficient | Comparitively lesser Efficient
 [Vivek Sharma](https://github.com/Baazigar007)
 
 ## Under Guidance Of
-[Mrs. Priyanka Bhutani](https://github.com/priyankabhutani)
-Assistant Professor
-USICT, GGSIPU
+[Mrs. Priyanka Bhutani](https://github.com/priyankabhutani)<br />
+Assistant Professor<br />
+USICT, GGSIPU<br />
